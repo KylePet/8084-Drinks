@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Menu",
+    "drinks": [
+      {
+        "name": "Black Milk Tea",
+        "price": 7.00,
+        "desc": "Signature black milk tea made with premium Chinese loose leaf tea",
+        "img": "https://raw.githubusercontent.com/KylePet/8084-Drinks/main/blackmt.jpg"
+      },
+      {
+        "name": "Green Milk Tea",
+        "price": 7.00,
+        "desc": "Signature green milk tea made with premium Chinese loose leaf tea",
+        "img": "https://raw.githubusercontent.com/KylePet/8084-Drinks/main/jasminemt.jpg"
+      },
+      {
+        "name": "Iced Matcha Latte",
+        "price": 7.00,
+        "desc": "Premium Japanese matcha with Oatly",
+        "img": "https://raw.githubusercontent.com/KylePet/8084-Drinks/main/matcha.jpg"
+      },
+      {
+        "name": "Mango Green Tea",
+        "price": 7.00,
+        "desc": "Fruit tea with fresh mango and premium green tea",
+        "img": "https://raw.githubusercontent.com/KylePet/8084-Drinks/main/mangoGT.jpg"
+      },
+      {
+        "name": "Strawberry Green Tea",
+        "price": 7.00,
+        "desc": "Fruit tea with fresh strawberry and premium green tea",
+        "img": "https://raw.githubusercontent.com/KylePet/8084-Drinks/main/strawberrygt.jpg"
+      },
+      {
+        "name": "Sparkling Guava",
+        "price": 7.00,
+        "desc": "Fruit tea with sparkling guava and premium green tea",
+        "img": "https://raw.githubusercontent.com/KylePet/8084-Drinks/main/guava.jpg"
+      },
+      {
+        "name": "Orange Yakult",
+        "price": 7.00,
+        "desc": "Orange green tea with Yakult",
+        "img": "https://raw.githubusercontent.com/KylePet/8084-Drinks/main/orangeYakult.jpg"
+      }
+    ]
+  }
+]
